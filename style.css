@@ -1,0 +1,17 @@
+body {
+	font-size: 14px;
+	background-color: #483D8B;
+	color: white;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	font-size: 30px;
+}
+select {
+		background-color: #8A2BE2;
+}
+.btn{
+	color: #F4A460;
+}
